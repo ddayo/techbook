@@ -1,12 +1,11 @@
 site_name: Bixal Techbook
 repo_url: https://github.com/Bixal/techbook/
 site_url: https://bixal-techbook.bixal.com/en/latest/
-#theme: 'windmill-dark'
 theme:
     name: null
     custom_dir: 'theme/bixal-dark/mkdocs_windmill_dark'
-#theme:
-#    theme_dir: /theme/bixal-dark
+# theme:
+#    name: 'windmill-dark'
 #    highlightjs: true
 #    hljs_languages:
 #        - yaml
