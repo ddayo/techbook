@@ -2,11 +2,11 @@ site_name: Bixal Techbook
 repo_url: https://github.com/Bixal/techbook/
 site_url: https://bixal-techbook.bixal.com/en/latest/
 theme:
-    name: readthedocs
+    name: gitbook
     highlightjs: true
     hljs_languages:
         - yaml
         - rust
 plugins:
     - search
-    
+
