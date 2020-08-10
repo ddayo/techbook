@@ -39,8 +39,8 @@ need a lot of technology experience!
 [Bixal Signature Generator](https://bixal-signature.herokuapp.com/)
   * There are additional links on that page with additional instructions!
 * Change your default meeting duration to allow for time between meetings
-  * Meeting policy
-  * [How to Set Defaults](https://www.youtube.com/watch?v=h4DWwKIOui0)
+  * Review [A Better Meeting Culture](https://techbook.bixal.com)
+  * [How to Set Defaults for a Better Meeting Culture](https://www.youtube.com/watch?v=h4DWwKIOui0)
 * Read the following [Security Awareness Training](https://techbook.bixal.com/en/latest/01-security/awareness/) and acknowledge in Paylocity.
 
 ## Technology Specific Items and Needs
