@@ -1,3 +1,0 @@
-[submodule "theme/bixal-dark"]
-	path = theme/bixal-dark
-	url = git@github.com:gscottqueen/mkdocs-windmill-dark.git
