@@ -4,6 +4,6 @@
 
 # These will automatically assign PRs that touch files in these directories to their respective teams for review.
 # @todo test ownership and mappings
-# docs/00-engineering/* @Bixal/@Development @Bixal/docs
-# docs/01-security/* @Bixal/@Security  @Bixal/docs
-# docs/02-help-desk/* @Bixal/@ITOperations  @Bixal/docs
+docs/00-engineering/* @Bixal/@bixal-core-dev
+docs/01-security/* @Bixal/@security
+docs/02-help-desk/* @Bixal/@operations
