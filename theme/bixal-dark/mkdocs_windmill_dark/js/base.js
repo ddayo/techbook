@@ -11,18 +11,16 @@ $(document).ready(function () {
   function switchTheme(e) {
     if (e.target.checked) {
       document.documentElement.setAttribute('data-theme', 'dark');
-      // document.getElementById('conetnt-frame').contentWindow.document.documentElement.setAttribute('data-theme', 'dark');
       localStorage.setItem('theme', 'dark');
     }
     else {
       document.documentElement.setAttribute('data-theme', 'light');
-      // document.getElementById('conetnt-frame').contentWindow.document.documentElement.setAttribute('data-theme', 'light');
       localStorage.setItem('theme', 'light');
     }
     location.reload();
   }
 
-  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : "light";
 
   if (currentTheme) {
     document.documentElement.setAttribute('data-theme', currentTheme);
@@ -31,11 +29,6 @@ $(document).ready(function () {
       toggleSwitch.checked = true;
     }
   }
-
-  console.log(localStorage);
-  // document.getElementById('conetnt-frame').onload = function () {
-  //   // console.log("iframe loaded");
-  // }
 });
 
 // The full page consists of a main window with navigation and table of contents, and an inner
