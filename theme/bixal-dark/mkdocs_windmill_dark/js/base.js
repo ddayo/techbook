@@ -105,13 +105,12 @@ function updateIframe(enableForwardNav) {
 
   document.getElementById('conetnt-frame').onload = function () {
     // we have to update the iframe data-theme as well
-    const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+    const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : "light";
 
     if (currentTheme) {
       document.getElementById('conetnt-frame').contentWindow.document.documentElement.setAttribute('data-theme', currentTheme);
     }
   }
-
 
   console.log("updateIframe: %s -> %s (%s)", currentIframeUrl, targetIframeUrl,
     currentIframeUrl === targetIframeUrl ? "same" : "replacing");
