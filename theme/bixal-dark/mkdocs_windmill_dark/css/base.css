@@ -682,17 +682,6 @@ h1 {
   position: relative;
 }
 
-/* h1:after {
-  content: "";
-  width: 200px;
-  height: 2px;
-  background-color: var(--heading-font);
-  background-color: var(--heading-font);
-  position: absolute;
-  bottom: -40px;
-  left: 0;
-} */
-
 h2 {
   font-family: var(--secondary-font);
   font-weight: 700;
