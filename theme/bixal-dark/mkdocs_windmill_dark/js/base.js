@@ -103,12 +103,12 @@ function updateIframe(enableForwardNav) {
   var loc = iframeWindow.location;
   var currentIframeUrl = _safeGetLocationHref(loc);
 
-  document.getElementById('conetnt-frame').onload = function () {
+  document.getElementById('content-frame').onload = function () {
     // we have to update the iframe data-theme as well
     const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : "light";
 
     if (currentTheme) {
-      document.getElementById('conetnt-frame').contentWindow.document.documentElement.setAttribute('data-theme', currentTheme);
+      document.getElementById('content-frame').contentWindow.document.documentElement.setAttribute('data-theme', currentTheme);
     }
   }
 
@@ -324,7 +324,6 @@ function onIframeLoad() {
   iframeWindow.focus();
 }
 
-
 /**
  * Hides a bootstrap collapsible element, and removes it from DOM once hidden.
  */
@@ -349,10 +348,6 @@ function renderPageToc(parentElem, pageUrl, pageToc) {
         .attr('href', pageUrl + tocItem.url)
         .attr('data-wm-adjusted', 'done')
         .text(tocItem.title)));
-    // if (tocItem.children) {
-    //   // console.log(tocItem.children);
-    //   tocItem.children.forEach(addItem);
-    // }
   }
 
   pageToc[0].children.forEach(addItem);
@@ -366,11 +361,6 @@ function renderPageToc(parentElem, pageUrl, pageToc) {
   $('<li class="wm-page-toc wm-toc-li-nested collapse">').append(ul).insertAfter(parentElem)
     .collapse(showPageToc ? 'show' : 'hide');
 }
-
-$("a").on( "click", function () {
-  alert("Handler for .click() called.");
-});
-
 
 if (!mainWindow) {
   // This is a page that ought to be in an iframe. Redirect to load the top page instead.
