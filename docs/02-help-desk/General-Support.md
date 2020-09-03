@@ -14,6 +14,15 @@
     * Click the select attachment button to attach any screenshots or videos.
 * Click the Create button when finished. 
 
+## Changing your Password (Mac)
+
+* ![Connect to the VPN](docs/images/VPN.png)
+* ![Go to System Preferences](docs/images/SystemP.png)
+* ![Select Users & Groups in System Preferences](docs/images/U&G.png)
+* ![On your account, select Change Password](docs/images/ChangeP.png)
+* ![Fill in Old Password, New Password, and Verify.](docs/images/Password.png) 
+* Click Change Password when you are done.
+
 
 ## Requesting software
 
@@ -37,4 +46,5 @@ To requst software create a helpdesk ticket at help.bixal.com and include the fo
   * If no password is available, add yourself to the group that manages the email address attached to the account.
   * Reset the password, record it in lastpass, and alert the system owner that the password was reset and this was intentional.
 * Assign the seat, alert the user and system owner, and close the ticket.
+
 
