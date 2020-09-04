@@ -3,6 +3,7 @@ Jinja2==2.10.3
 livereload==2.6.1
 Markdown==3.1.1
 MarkupSafe==1.1.1
+mdx-truly-sane-lists==1.2
 mkdocs==1.0.4
 mkdocs-gitbook==0.0.1
 mkdocs-windmill-dark==0.2.0
