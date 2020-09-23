@@ -4,9 +4,7 @@
 ## Services offered
 
 Bixal offers several different laptop configurations depending on role and job
-requirements. Beyond a laptop Bixal will provide a budget for accessories
-and offerers a list of accessories that can be requested without
-additional input from management.
+requirements. Beyond a laptop Bixal will provide a budget for accessories.
 
 ### A Note on Americans with Disabilities Act
 
@@ -43,71 +41,7 @@ peers without creating impedance.
   * 1TB SDD
   * Recommended device: [Security Focused Librem 15](https://shop.puri.sm/shop/librem-15/)
 
-### Accessories
-
-Bixal will allow purchases from the following productivity purchase
-assuming you have availability from your accessory budget.
-
-* Mouse and Trackpad
-  * [Apple Magic Mouse 2](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver)
-  * [Logitech MX Anywhere 2S](https://www.logitech.com/en-us/product/mx-anywhere-2s-flow)
-  * [Apple Magic Trackpad 2](https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver)
-  * [Kensington Expert Trackball](https://www.kensington.com/en-gb/p/products/control/trackballs/expert-mouse-wireless-trackball/)
-* Keyboards
-  * [Magic Keyboard](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
-  * [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard)
-  * [Das Model S Professional](https://www.daskeyboard.com/model-s-professional/)
-* Earbuds and Headphones
-* PIV Card Reader
-
-### Roles and Default Hardware
-
-Most roles at Bixal fall into one high level descriptor(Developer,
-Sysadmin, Project Manager, Quality Assurance tester, etc). There
-is a default hardware package for most of these roles. During
-the hiring process People and Culture will reach out to the hiring
-manager to identify the role they are fulfilling. If the hiring manager,
-or hired employee has concerns about the assigned hardware package
-they may follow the steps below to request a different package.
-
-* Developer Approved Packages
-  * MacBook Pro 16" (Default)
-  * Generic 14" or 15" Linux Based Laptop
-  * Generic 14" or 15" Windows Based Laptop
-* Systems Administrator
-  * Generic 14" or 15" Linux Based Laptop (See Note on Yubikeys below)
-* Quality Assurance
-  * Generic 14" or 15" Windows Based Laptop
-* Program Manager, Sr Project Manager, Project Manager, Scrum Master
-  * Mac Book Pro 13" (Default)
-  * Generic 14" or 15" Windows Based Laptop (Consider this when on a
-  project that needs a PIV where you will not be assigned a Government computer)
-* Designer
-* Video Editor
-* Etc.
-
-### YubiKeys
-
-YubiKeys can be provided on request to those with access to critical systems.
-Sysadmin roles should be assigned YubiKeys by default as they will always
-have access to critical systems.
-
-All YubiKeys should be FIPS 140-2 validated but can be USB-C or USB-A
-depending on the users preferences. See [Yubico](https://www.yubico.com/products/yubikey-fips/) for details on the available options.
-
-## Requesting hardware
-
-To request software create a help desk ticket at
-[https://help.bixal.com](https://help.bixal.com) and include the following
-information:
-
-* Name.
-* Email Address.
-* The hardware package you are requesting.
-* Project and/or Approving project manager or lead.
-* Justification for change in package.
-
-## Stipend 
+### Stipend 
 
 Bixal is allowing a $150 stipend to each employee for any office equipment. This may include mice, keyboards, monitors, adapters, office furniture, computer stands, & headsets. 
 
@@ -173,3 +107,68 @@ We have provided a listed of suggested equipment (see below). You are not limite
 | --- | --- | --- | ---|
 | USB Card Reader | $13.05 | [USB](https://www.amazon.com/Micro-Systems-SmartFold-Reader-SCR3500/dp/B004RL6QUQ/ref=sr_1_5?keywords=piv+card+reader&qid=1558631132&s=gateway&sr=8-5) | Macbook Pro 2016 or later |
 | USB-C Card Reader | $18.95 | [USB-C](https://www.amazon.com/Identiv-SCR3500C-USB-Smartfold-Type/dp/B07CV4D13G/ref=sxbs_sxwds-stvp?keywords=piv+card+reader+usb+c&pd_rd_i=B07CV4D13G&pd_rd_r=db38837d-56b9-4d47-88da-7ba447ddd93f&pd_rd_w=Ml56L&pd_rd_wg=R0tMI&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=D2D05PW9HMFCETM5K80N&qid=1558631170&s=gateway) | | 
+
+
+### Accessories
+
+Bixal will allow purchases from the following productivity purchase
+assuming you have availability from your accessory budget.
+
+* Mouse and Trackpad
+  * [Apple Magic Mouse 2](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2-silver)
+  * [Logitech MX Anywhere 2S](https://www.logitech.com/en-us/product/mx-anywhere-2s-flow)
+  * [Apple Magic Trackpad 2](https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver)
+  * [Kensington Expert Trackball](https://www.kensington.com/en-gb/p/products/control/trackballs/expert-mouse-wireless-trackball/)
+* Keyboards
+  * [Magic Keyboard](https://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
+  * [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard)
+  * [Das Model S Professional](https://www.daskeyboard.com/model-s-professional/)
+* Earbuds and Headphones
+* PIV Card Reader
+
+### Roles and Default Hardware
+
+Most roles at Bixal fall into one high level descriptor(Developer,
+Sysadmin, Project Manager, Quality Assurance tester, etc). There
+is a default hardware package for most of these roles. During
+the hiring process People and Culture will reach out to the hiring
+manager to identify the role they are fulfilling. If the hiring manager,
+or hired employee has concerns about the assigned hardware package
+they may follow the steps below to request a different package.
+
+* Developer Approved Packages
+  * MacBook Pro 16" (Default)
+  * Generic 14" or 15" Linux Based Laptop
+  * Generic 14" or 15" Windows Based Laptop
+* Systems Administrator
+  * Generic 14" or 15" Linux Based Laptop (See Note on Yubikeys below)
+* Quality Assurance
+  * Generic 14" or 15" Windows Based Laptop
+* Program Manager, Sr Project Manager, Project Manager, Scrum Master
+  * Mac Book Pro 13" (Default)
+  * Generic 14" or 15" Windows Based Laptop (Consider this when on a
+  project that needs a PIV where you will not be assigned a Government computer)
+* Designer
+* Video Editor
+* Etc.
+
+### YubiKeys
+
+YubiKeys can be provided on request to those with access to critical systems.
+Sysadmin roles should be assigned YubiKeys by default as they will always
+have access to critical systems.
+
+All YubiKeys should be FIPS 140-2 validated but can be USB-C or USB-A
+depending on the users preferences. See [Yubico](https://www.yubico.com/products/yubikey-fips/) for details on the available options.
+
+## Requesting hardware
+
+To request software create a help desk ticket at
+[https://help.bixal.com](https://help.bixal.com) and include the following
+information:
+
+* Name.
+* Email Address.
+* The hardware package you are requesting.
+* Project and/or Approving project manager or lead.
+* Justification for change in package.
