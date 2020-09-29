@@ -19,6 +19,12 @@ need a lot of technology experience!
 
 ## The Overall Process and What to Expect Your First Day
 
+### Getting Help
+
+Firstly, if at any point, you have technology questions helpdesk@bixal.com is here to help. There is a lot to absorb
+your first week so don't be shy reaching out for help.
+If we are not the correct team to help you, we can point you in the correct direction.
+
 ### Things Every Employee Needs
 
 * Microsoft Office 365 Account
