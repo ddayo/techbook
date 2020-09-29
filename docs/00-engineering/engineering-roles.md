@@ -38,9 +38,11 @@ These are the engineering roles and responsibilities on a project team. This is 
 A Backend Developer has fluency or near fluency in one or more languages. They are able to help collect requirements, design, and build components of applications.
 They are familiar with the tooling of the technology and framework of their assigned projects and can work on most component level tasks with minimal guidance.
 
+### Technical Lead
+
 | Skill | Level |
 | --- | --- |
-| [Agile mindset](#agile-mindset) | [Working](#working) |
+| [Agile mindset](#agile-mindset) | [Practictioner](#practitioner) |
 | Communication | Working |
 | Team collaboration | Working |
 | Working within constraints | Working |
@@ -249,9 +251,51 @@ Responsible for theme code and site configuration, ensuring that:
 
 * **Agile mindset** You know about agile methodology and can apply an agile mindset to all aspects of your work. You can work in a fast-paced, evolving environment and use an iterative method and flexible approach to enable rapid delivery. You are unafraid to take risks, willing to learn from mistakes and appreciate the importance of agile project delivery for digital projects in government. You can ensure the team knows what each other is working on and how this relates to practical government objectives and user needs.
 
+* **Code Review**. Understands how to merge multiple branches, resolve conflicts, manage workflow, and provide contructive feedback to pull requests.
+
+* **CI/CD, Cron and Task Runners**. Understands enough bash and framework tooling to automate portions of the software development lifecycle using task runners (jenkins, pipelines, circleci, etc), lambda, and cron. Understand framework tooling well enough to set up tests for linting, depricated code, coding standards, etc.
+
+* **Configuration Management**. Understands how to use framework configuration, and environment variables to configure an environment in line with a 12 factor application.
+
 * **Communication**. You can communicate effectively across organizational, technical and political boundaries, understanding the context. You know how to make complex and technical information and language simple and accessible for non-technical audiences. You can apply foundational concepts of layout, spacing, color, type, iconography, use of imagery to ensure that content is legible and readable and that users see and understand interactions. You can advocate and communicate what a team does to create trust and authenticity and can respond to challenge.
 
+* **Community Awareness and Evaluation**. Understands when to use community code vs creating custom code. 
+
+* **Drupal Behaviors**. Understands how to attach JavaScript as a scoped behavior.
+
+* **Drupal CLI**. Understands how Drush and Drupal Console can be use to deploy changes, assist in migrations, and debugging applications.
+
+* **Drupal Libraries**. Understands how to use Drupal Libraries API to properly scope dependent libraries.
+
+* **Database Migrations**. Understands migration process in depth and can guide, architect and execute a complex one using the frameworks migration API.
+
+* **Dependency Management**. Understanding of how dependency managment is accomplished in their language or framework.
+
+* **Drupal API Endpoints**. Understanding of the various ways you can expose a drupal endpoint for API consumption.
+
+* **Drupal Custom Entities**. Understanding how and why to create a custom entity in drupal.
+
+* **Drupal Custom Fields**. Understanding how and why to create a custom field type in drupal.
+
+* **Drupal Programactic Menus**. Understands how to programiactically create and update menu and menu links.
+
+* **Drupal Programatic Blocks**. Is able to programatically create blocks and block admin forms.
+
+* **Drupal Site Building**. Understands how to build complex sites using and extending Drupal’s architecture views, paragraphs, blocks, fields.
+
+* **Drupal API**. Understanding of Drupal 8 APIs (Migrate, Form, Cache, Batch, etc).
+
+* **Load Testing**. Can create performance testing scripts and generate benchmarks.
+
+* **Patching and updating Framework**. Knows how to patch core framework and/or contributed modules (and create custom patches when needed) and composer functionality.
+
+* **Mentorship**. Promotes learning and supports more novice developers in both technical and non-technical skills at various skill levels.
+
+* **Services and Dependency Injection**. Understands what a service is and can implement it utilizing dependency injection.
+
 * **Team collaboration**. You can contribute to the work of the organization, building successful teams through understanding team styles and influencing as well as motivating team members. You know how to give and receive constructive feedback, facilitating the feedback loop. You can facilitate conflict resolution within teams, ensure the team is transparent and that the work is understood externally. You can help teams maintain a focus on delivery while being aware of the importance of professional development.
+
+* **Testing**. Understands unit testing and how to write unit tests in their framework.
 
 * **Working within constraints**. You understand and can work within given constraints (including but not limited to technology and policy, and regulatory, financial and legal constraints). You know how to challenge constraints that can be changed. You can ensure compliance against constraints by adapting products and services where needed.
 
