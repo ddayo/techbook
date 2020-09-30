@@ -4,13 +4,17 @@ These are the engineering roles and responsibilities on a project team. This is 
 
 ## Technical Roles Throughout Bixal
 
-* Back End Development Practice Area
+* [Back End Development Practice Area](#Back-End-Development-Practice-Area)
   * Lead Software Architect
   * Technical Lead
   * Senior Back End Developer
   * Backend Developer
   * Backend Intern
-* Presentation Practice Area
+* JavaScript
+  * JavaScript Lead
+  * Senior JavaScript Developer
+  * JavaScript Developer
+* [Presentation Practice Area](#Presentation-Practice-Area)
   * Front End Lead
   * Senior Front End Developer
   * Front End Developer
@@ -20,20 +24,14 @@ These are the engineering roles and responsibilities on a project team. This is 
   * Infrastructure Architect
   * System Administrator
   * Technology Support Specialist
-* Front End Engineering
-  * JavaScript Lead
-  * Senior JavaScript Developer
-  * JavaScript Developer
 * Quality Assurance Practice Area
   * Quality Assurance Engineer
   * Quality Assurance Analyst
-* Compliance Practice Area
+* Information Security
   * Information Security Engineer
   * Information Security Officer
-* Data Science and Analytics
-  * ROLES HERE
 
-## Backend Developer
+## Back End Development Practice Area
 
 A Backend Developer has fluency or near fluency in one or more languages. They are able to help collect requirements, design, and build components of applications.
 They are familiar with the tooling of the technology and framework of their assigned projects and can work on most component level tasks with minimal guidance.
