@@ -26,9 +26,7 @@ These are the engineering roles and responsibilities on a project team. This is 
   * Technology Support Specialist
 * Quality Assurance Practice Area
   * Quality Assurance Engineer
-  * Quality Assurance Analyst
 * Information Security
-  * Information Security Engineer
   * Information Security Officer
 
 ## Back End Development Practice Area
@@ -369,7 +367,7 @@ they define (e.g. one to one vs one to many).
 
 * **Responsive Design**. Understands how to translate complex designs and prototypes to responsive HTML5.
 
-* **SASS, SASS Modules, SASS Functions, and Mixens**. Understands SASS and is able to create reusable mixins.
+* **SASS, SASS Modules, SASS Functions, and Mixins**. Understands SASS and is able to create reusable mixins.
 
 * **Scoping and Triage** From experience or through requirements gathering, you can organize ticketing details and acceptance criteria.  You may also be called up on to review and provide guidance for resolving "bugs" in the system.  When needed you can deliver estimates for completion as well as value and risk assessments.
 
