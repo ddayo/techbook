@@ -245,6 +245,33 @@ Responsible for theme code and site configuration, ensuring that:
 | Content Strategy                       | Awareness |
 | Backend Technologies                   | Awareness |
 
+
+# Compliance Practice Area
+## Information Security Officer
+
+An Information Security Officer owns the process of all assurance activities related to the availability, integrity and confidentiality of customer, employee and business information, in compliance with the company information security policies.
+
+They are familiar with with common information security management frameworks such as NIST, ISO/IEC 27001, ITIL, or COBIT. The Information Security Officer has the ability to lead the organization through HIPAA, PCI DSS, SOC1/SOC2 or CJIS compliance efforts.
+
+| Skill | Level |
+| --- | --- |
+| Leadership and guidance | Working |
+| Strategic thinking | Working |
+| Identity and Role Management | Working |
+| IS Strategic Planning | Working |
+| Technology Risk Management | Working |
+| [Agile mindset](#agile-mindset) | [Working](#working) |
+| Communication | Working |
+| Team collaboration | Working |
+| Working within constraints | Working |
+| [System Design](#system-design) | Awareness |
+| [System Administration](#system-administration) | Awareness |
+| [Application Command Line Tools](#application-command-line-tools) | Practitioner |
+| [Application Design](#application-command-line-tools) | Practitioner |
+| [Quality Code and Standards](#quality-code-and-standards) | Practitioner |
+| API Design | Awareness |
+
+
 ## Skills Description
 
 * **Agile mindset** You know about agile methodology and can apply an agile mindset to all aspects of your work. You can work in a fast-paced, evolving environment and use an iterative method and flexible approach to enable rapid delivery. You are unafraid to take risks, willing to learn from mistakes and appreciate the importance of agile project delivery for digital projects in government. You can ensure the team knows what each other is working on and how this relates to practical government objectives and user needs.
