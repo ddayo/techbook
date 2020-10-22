@@ -148,9 +148,12 @@ they may follow the steps below to request a different package.
   * Mac Book Pro 13" (Default)
   * Generic 14" or 15" Windows Based Laptop (Consider this when on a
   project that needs a PIV where you will not be assigned a Government computer)
-* Designer
-* Video Editor
-* Etc.
+* Print and Video Designers
+  * MacBook Pro 16"
+    * 2.3GHz 8 core 9th generation Intel Core i9 processor, Turbo Boost up to 4.8GHz
+    * 64GB 2666MHz DDR4 memory
+    * AMD Radeon Pro 5500M with 8GB of GDDR6 memory
+    * 1TB SSD storage
 
 ### YubiKeys
 
