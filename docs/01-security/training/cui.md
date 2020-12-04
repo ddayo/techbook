@@ -8,7 +8,7 @@ If you would like to learn more about the history of CUI, you can visit [https:/
 
 ## Training Resources
 ### Controlled Environments & Overview
-This video provides environment examples an overview of why controlled environments are important. There are two "physical" scenarios, one that is suitable and another that is not suitable for the storage and handling of CUI. 
+This video provides environment examples and overview of why controlled environments are important. There are two "physical" scenarios, one that is suitable and another that is not suitable for the storage and handling of CUI. 
 
 Here is the link to the controlled environments & overview full length (6:05) [video](https://youtu.be/j0AzEnoopIw). Specifc information about controlled CUI for electronic/digital assets are found at [4:06](https://youtu.be/j0AzEnoopIw?t=248).
 
