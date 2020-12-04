@@ -4,9 +4,11 @@ According to the archives.org website, "Controlled Unclassified Information (CUI
 
 For Bixal employees: this applies to information that is created or possessed by a Bixal employee for or on behalf of the Government, that a law, regulation, or Government-wide policy requires or permits an agency to handle using safeguarding or dissemination controls, as stated above.
 
+If you would like to learn more about the history of CUI, you can visit [https://www.archives.gov/cui/cui-history](https://www.archives.gov/cui/cui-history).
+
 ## Training Resources
 ### Controlled Environments & Overview
-This video provides environtment examples an overview of why controlled environments are important. There are two "physical" scenarios, one that is suitable and another that is not suitable for the storage and handling of CUI. 
+This video provides environment examples an overview of why controlled environments are important. There are two "physical" scenarios, one that is suitable and another that is not suitable for the storage and handling of CUI. 
 
 Here is the link to the controlled environments & overview full length (6:05) [video](https://youtu.be/j0AzEnoopIw). Specifc information about controlled CUI for electronic/digital assets are found at [4:06](https://youtu.be/j0AzEnoopIw?t=248).
 
