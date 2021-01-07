@@ -1,6 +1,6 @@
 # What is Controlled Unclassified Information (CUI)?
 
-According to the archives.org website, "Controlled Unclassified Information (CUI) is information that requires safeguarding or dissemination controls pursuant to and consistent with applicable law, regulations, and government-wide policies but is not classified under [Executive Order 13526](https://www.govinfo.gov/content/pkg/FR-2010-11-09/pdf/2010-28360.pdf) or the Atomic Energy Act, as amended."
+According to the archives.gov website, "Controlled Unclassified Information (CUI) is information that requires safeguarding or dissemination controls pursuant to and consistent with applicable law, regulations, and government-wide policies but is not classified under [Executive Order 13526](https://www.govinfo.gov/content/pkg/FR-2010-11-09/pdf/2010-28360.pdf) or the Atomic Energy Act, as amended."
 
 For Bixal employees: this applies to information that is created or possessed by a Bixal employee for or on behalf of the Government, that a law, regulation, or Government-wide policy requires or permits an agency to handle using safeguarding or dissemination controls, as stated above.
 
