@@ -1,4 +1,5 @@
 # Government Furnished Equipment (GFE)
+
 ## Tracking of GFE
 All Government Furnished Equipment, or GFE, need to be tracked in Bixal inventory system. The serial number, computer model, owner of the machine, computer name, and Cac or PIV serial number will be recorded within the inventory system.  
 
