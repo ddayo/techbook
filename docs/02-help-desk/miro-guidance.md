@@ -23,7 +23,7 @@ This document describes how we manage our Miro Enterprise instance. For official
 - If you want to restrict access to a board, you can remove the default team access using the Share button. Set it to "No Access" or other setting as needed.
 - You can also control access to boards through Projects within Teams.
 
-## Adding people to teams
+## Adding people to teams (Inviting)
 - Add people to teams using their email address. If it's a Bixal employee, use their Bixal email.
 - If you're adding people who are already in the system, there is an option to `Add users from Company`.
 - If you're adding people who will be collaborating on boards, even if they're outside Bixal, add them as a `Free` user. They will be converted to `Full` automatically once they edit something.
