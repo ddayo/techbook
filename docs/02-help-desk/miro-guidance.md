@@ -6,8 +6,10 @@ This document describes how we manage our Miro Enterprise instance. For official
 - Account: see _Team_.
 - Board: a collaborative document.
 - Board owner: the person who created the board. This can be changed if needed.
-- Project: a subset of boards within a team.
-- Team: a collection of people and documents within the Enterprise instance. (This is also referred to as an "account" in some places in the UI.)
+- Project: a subset of boards within a team. It's a way to group boards, like a folder.
+- Team: a collection of people and boards within the Bixal Enterprise company. (This is also referred to as an "account" in some places in the UI.)
+- Team admin: a person with special permissions to manage the team.
+- Team member: a person who is part of a team, including both Bixal and non-Bixal users.
 
 ## Organizing boards
 - Boards are organized by Miro Team.
