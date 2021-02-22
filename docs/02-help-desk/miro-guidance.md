@@ -1,6 +1,6 @@
 # Miro Guidance
 
-This document describes how we manage our Miro Enterprise instance. For official documentation, see the [Miro Help Center](https://help.miro.com/hc/en-us).
+This document describes how we manage our Miro Enterprise instance. For official documentation, see the [Miro Help Center](https://help.miro.com/hc/en-us). Single Sign-On (SSO) Authentication has been enabled for Miro, to sign in please use your Bixal email address.
 
 ## Glossary
 - **Account**: see _Team_.
